@@ -1,0 +1,74 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 23 Sep 2024 23:33:18 at https://hostafi.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qiC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://hostafi.com/ -%L https://hostafi.com/ -O1 "C:\Users\aoudi\Videos\ademsuit\https___hostafi.com_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:33:18	Error: 	Could not include URL list: https://hostafi.com/
+23:33:18	Warning: 	Cache: damaged cache, trying to repair
+23:33:18	Warning: 	Cache: 0 bytes successfully recovered in 0 entries
+23:33:18	Warning: 	Cache: error trying to open the cache
+23:34:05	Error: 	"Bad Request" (400) at link https://hostafi.com/wp-admin/admin-ajax.php (from https://hostafi.com/)
+23:34:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hostafi.com/vps-hosting/ (from https://hostafi.com/)
+23:34:38	Error: 	"Not Found" (404) at link https://hostim.themetags.com/wp-content/uploads/2022/07/about_feature_img.png (from https://hostafi.com/)
+23:34:41	Error: 	"Error when decompressing" (-1) at link https://hostafi.com/2024/05/الفرق-بين-استضافة-vps-والخادم-المخصص-dedicated-server/ (from https://hostafi.com/)
+23:34:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hostafi.com/wp-content/uploads/2022/07/star-yellow-1.svg (from https://hostafi.com/)
+23:34:42	Error: 	"Not Found" (404) at link https://hostafi.com/terms-conditions/ (from https://hostafi.com/)
+23:34:42	Error: 	"Not Found" (404) at link https://hostafi.com/privacy-policy/ (from https://hostafi.com/)
+23:34:42	Error: 	"Not Found" (404) at link https://hostafi.com/wp-content/plugins/hostim-core/assets/img/home_19/popular.png (from https://hostafi.com/wp-content/plugins/hostim-core/assets/css/custom.css?ver=6.6.2)
+23:34:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hostafi.com/wp-content/themes/hostim/assets/webfonts/fa-brands-400.ttf (from https://hostafi.com/wp-content/themes/hostim/assets/css/all.min.css?ver=6.6.2)
+23:34:42	Error: 	"Not Found" (404) at link https://hostafi.com/wp-content/themes/hostim/assets/img/home2/shape/curve-line.svg (from https://hostafi.com/wp-content/themes/hostim/assets/css/app.css?ver=3.7.0)
+23:34:42	Error: 	"Not Found" (404) at link https://hostafi.com/wp-content/themes/hostim/assets/img/shapes/title-shape-left.png (from https://hostafi.com/wp-content/themes/hostim/assets/css/app.css?ver=3.7.0)
+23:34:42	Error: 	"Not Found" (404) at link https://hostafi.com/wp-content/themes/hostim/assets/img/shapes/title-shape-right.png (from https://hostafi.com/wp-content/themes/hostim/assets/css/app.css?ver=3.7.0)
+23:34:42	Error: 	"Not Found" (404) at link https://hostafi.com/wp-content/themes/hostim/assets/img/shapes/gm-title-left.png (from https://hostafi.com/wp-content/themes/hostim/assets/css/app.css?ver=3.7.0)
+23:34:42	Error: 	"Not Found" (404) at link https://hostafi.com/wp-content/themes/hostim/assets/img/shapes/gm-title-right.png (from https://hostafi.com/wp-content/themes/hostim/assets/css/app.css?ver=3.7.0)
+23:34:42	Error: 	"Not Found" (404) at link https://hostafi.com/wp-content/themes/hostim/assets/img/shapes/about-title-shape.png (from https://hostafi.com/wp-content/themes/hostim/assets/css/app.css?ver=3.7.0)
+23:34:42	Error: 	"Not Found" (404) at link https://hostafi.com/wp-content/themes/hostim/assets/img/shapes/gm-subtitle.png (from https://hostafi.com/wp-content/themes/hostim/assets/css/app.css?ver=3.7.0)
+23:34:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hostafi.com/wp-content/plugins/hostim-core/assets/vendors/feather/fonts/Feather.ttf?sdxovp (from https://hostafi.com/wp-content/plugins/hostim-core/assets/vendors/feather/css/feather.css?ver=6.6.2)
+23:34:42	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hostafi.com/wp-content/plugins/hostim-core/assets/vendors/feather/fonts/Feather.woff?sdxovp (from https://hostafi.com/wp-content/plugins/hostim-core/assets/vendors/feather/css/feather.css?ver=6.6.2)
+23:34:47	Warning: 	Found for https://hostafi.com/billing/order/
+23:34:47	Warning: 	File has moved from https://hostafi.com/billing/order/ to https://hostafi.com/billing/order/forms/
+23:34:48	Warning: 	Found for https://hostafi.com/billing/order/orders/
+23:34:48	Warning: 	File has moved from https://hostafi.com/billing/order/orders/ to https://hostafi.com/billing/login/
+23:34:48	Warning: 	Found for https://hostafi.com/billing/plugin/support_manager/client_main/
+23:34:48	Warning: 	File has moved from https://hostafi.com/billing/plugin/support_manager/client_main/ to https://hostafi.com/billing/login/
+23:34:48	Warning: 	Found for https://hostafi.com/billing/plugin/support_manager/client_tickets/
+23:34:48	Warning: 	File has moved from https://hostafi.com/billing/plugin/support_manager/client_tickets/ to https://hostafi.com/billing/plugin/support_manager/client_tickets/departments/
+23:34:49	Warning: 	Found for https://hostafi.com/billing/client/plugin/support_manager/client_tickets/add/
+23:34:49	Warning: 	File has moved from https://hostafi.com/billing/client/plugin/support_manager/client_tickets/add/ to https://hostafi.com/billing/client/plugin/support_manager/client_tickets/departments/
+23:34:51	Warning: 	Moved Permanently for https://hostafi.com/?p=12939
+23:34:51	Warning: 	File has moved from https://hostafi.com/?p=12939 to https://hostafi.com/shared-hosting/
+23:34:53	Warning: 	Moved Permanently for https://hostafi.com/?p=12922
+23:34:53	Warning: 	File has moved from https://hostafi.com/?p=12922 to https://hostafi.com/wordpress-hosting/
+23:34:59	Warning: 	Moved Permanently for https://hostafi.com/?p=12951
+23:34:59	Warning: 	File has moved from https://hostafi.com/?p=12951 to https://hostafi.com/dedicated-server/
+23:35:00	Warning: 	Moved Permanently for https://hostafi.com/?p=594
+23:35:00	Warning: 	File has moved from https://hostafi.com/?p=594 to https://hostafi.com/domain/
+23:35:01	Warning: 	Moved Permanently for https://hostafi.com/?p=13016
+23:35:01	Warning: 	File has moved from https://hostafi.com/?p=13016 to https://hostafi.com/minecraft-hosting/
+23:35:01	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hostafi.com/wp-content/plugins/hostim-core/elementor/assets/images/testimonial/star_shape.svg (from https://hostafi.com/minecraft-hosting/)
+23:35:02	Warning: 	Moved Permanently for https://hostafi.com/?p=1004
+23:35:02	Warning: 	File has moved from https://hostafi.com/?p=1004 to https://hostafi.com/about/
+23:35:03	Warning: 	Moved Permanently for https://hostafi.com/?p=1300
+23:35:03	Warning: 	File has moved from https://hostafi.com/?p=1300 to https://hostafi.com/contact/
+23:35:04	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hostafi.com/tag/dedicated-server/ (from https://hostafi.com/blog/)
+23:35:07	Warning: 	Found for https://hostafi.com/billing/login/
+23:35:07	Warning: 	File has moved from https://hostafi.com/billing/login/ to https://hostafi.com/billing/
+23:35:07	Warning: 	Found for https://hostafi.com/billing/plugin/support_manager/client_tickets/departments/
+23:35:07	Warning: 	File has moved from https://hostafi.com/billing/plugin/support_manager/client_tickets/departments/ to https://hostafi.com/billing/login/
+23:35:07	Warning: 	Found for https://hostafi.com/billing/client/plugin/support_manager/client_tickets/departments/
+23:35:07	Warning: 	File has moved from https://hostafi.com/billing/client/plugin/support_manager/client_tickets/departments/ to https://hostafi.com/billing/client/login/
+23:35:08	Warning: 	Moved Permanently for https://hostafi.com/?p=12945
+23:35:08	Warning: 	File has moved from https://hostafi.com/?p=12945 to https://hostafi.com/vps-hosting/
+23:35:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hostafi.com/wp-content/uploads/2022/07/free-debian-2-202378-e1712639394425.webp (from https://hostafi.com/vps-hosting/)
+23:35:08	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hostafi.com/wp-content/uploads/2022/07/ubuntu-plain-icon-256x256-we4d4gd0-e1712639385182.png (from https://hostafi.com/vps-hosting/)
+23:35:08	Warning: 	Found for https://hostafi.com/billing/order/main/index/domain/?skip=true
+23:35:08	Warning: 	File has moved from https://hostafi.com/billing/order/main/index/domain/?skip=true to https://hostafi.com/billing/order/cart/index/domain/
+23:35:10	Warning: 	Found for https://hostafi.com/billing/order/config/preconfig/register/?
+23:35:10	Warning: 	File has moved from https://hostafi.com/billing/order/config/preconfig/register/? to /billing/order/signup/index/register
+23:35:11	Warning: 	Retry after error -4 (No data (connection closed)) at link https://hostafi.com/billing/order/cart/index/domain/ (from https://hostafi.com/billing/order/main/index/domain/?skip=true)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 55 seconds : 393 links scanned, 351 files written (16852476 bytes overall) [8396479 bytes received at 73012 bytes/sec], 12964761 bytes transferred using HTTP compression in 265 files, ratio 27%, 16.6 requests per connection
+(14 errors, 49 warnings, 0 messages)

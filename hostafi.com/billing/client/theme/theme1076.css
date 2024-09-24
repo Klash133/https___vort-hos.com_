@@ -1,0 +1,499 @@
+/* Body background */
+body {
+    background-color: #f0f0f0;
+}
+
+/* Link color */
+a, a:hover {
+    color: #000000;
+}
+
+/* Pagination style */
+.pagination .page-item.active .page-link,
+div.pagination ul.pagination li.active .page-link,
+div.pagination ul.pagination li.active a {
+    background-color: #000000;
+    border-color: #000000;
+}
+
+/* Header style */
+.header {
+    background: #0047ab;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#0047ab), to(#0073e6));
+    background: -webkit-linear-gradient(#0047ab, #0073e6);
+    background: -moz-linear-gradient(#0047ab, #0073e6);
+    background: -ms-linear-gradient(#0047ab, #0073e6);
+    background: -o-linear-gradient(#0047ab, #0073e6);
+    background: linear-gradient(#0047ab, #0073e6);
+    -pie-background: linear-gradient(#0047ab, #0073e6);
+}
+
+/* Title style */
+.title {
+    background: #ffffff;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#ffffff), to(#ffffff));
+    background: -webkit-linear-gradient(#ffffff, #ffffff);
+    background: -moz-linear-gradient(#ffffff, #ffffff);
+    background: -ms-linear-gradient(#ffffff, #ffffff);
+    background: -o-linear-gradient(#ffffff, #ffffff);
+    background: linear-gradient(#ffffff, #ffffff);
+    -pie-background: linear-gradient(#ffffff, #ffffff);
+}
+
+.title h3 {
+    color: #4040c5;
+}
+
+/* Navigation bar style */
+.nav-content nav.navbar {
+    background: #202062;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#202062), to(#101052));
+    background: -webkit-linear-gradient(#202062, #101052);
+    background: -moz-linear-gradient(#202062, #101052);
+    background: -ms-linear-gradient(#202062, #101052);
+    background: -o-linear-gradient(#202062, #101052);
+    background: linear-gradient(#202062, #101052);
+    -pie-background: linear-gradient(#202062, #101052);
+}
+
+.nav-content nav.navbar .navbar-nav > .active > a,
+nav.navbar .navbar-nav > .active > a:hover,
+nav.navbar .navbar-nav > .active > a:focus {
+    color: #ffffff !important;
+}
+
+.nav-content nav.navbar .navbar-nav > li > a {
+    color: #ffffff !important;
+}
+
+@media (max-width: 767px) {
+    nav.navbar .navbar-nav .show .dropdown-menu > a {
+        color: #ffffff !important;
+    }
+
+    nav.navbar .navbar-nav .show .dropdown-menu > a:hover,
+    nav.navbar .navbar-nav .show .dropdown-menu > a:focus {
+        color: #ffffff !important;
+    }
+}
+
+.nav-content nav.navbar .navbar-nav > li > a:hover {
+    color: #ffffff !important;
+}
+
+.nav-content nav.navbar .navbar-nav > .open > a,
+nav.navbar .navbar-nav > .open > a:hover,
+nav.navbar .navbar-nav > .open > a:focus {
+    color: #ffffff !important;
+}
+
+/* Card style */
+.card-blesta > .card-header {
+    color: #ffffff;
+    background: #073484;
+    background: -webkit-gradient(linear, 0 0, 0 bottom, from(#073484), to(#3B5998));
+    background: -webkit-linear-gradient(#073484, #3B5998);
+    background: -moz-linear-gradient(#073484, #3B5998);
+    background: -ms-linear-gradient(#073484, #3B5998);
+    background: -o-linear-gradient(#073484, #3B5998);
+    background: linear-gradient(#073484, #3B5998);
+    -pie-background: linear-gradient(#073484, #3B5998);
+}
+
+/* Highlight Color */
+.list-group.list-options a.list-group-item:hover,
+.list-group.list-options a.list-group-item:focus,
+a.list-group-item:hover,
+a.list-group-item:focus {
+    background-color: #f0f0f0 !important;
+}
+
+a.list-group-item.active,
+a.list-group-item.active:hover,
+a.list-group-item.active:focus {
+    background-color: #f0f0f0 !important;
+}
+
+.table-hover > tbody > tr:hover > td, .table-hover > tbody > tr:hover > th {
+    background-color: #f0f0f0 !important;
+}
+
+/* Settings Link Text Color */
+.list-group-item.credits {
+    color: #000000 !important;
+}
+
+.top-focus-box {
+    background-color: #f0f0f0 !important;
+}
+
+.list-group-item h4 {
+    color: #000000 !important;
+}
+
+/* Top navigation style */
+.top-nav .dropdown a.dropdown-toggle,
+.top-nav .dropdown a.dropdown-toggle:focus {
+    color:  !important;
+}
+
+.top-nav .dropdown a.dropdown-toggle:hover {
+    color:  !important;
+}
+
+/* Bootstrap theme */
+.bg-primary {
+    background-color:  !important;
+}
+
+.text-primary {
+    color:  !important;
+}
+
+.border-primary {
+    border-color:  !important;
+}
+
+.badge-primary {
+    color:  !important;
+    background-color:  !important;
+}
+
+.btn-primary {
+    color:  !important;
+    background-color:  !important;
+    border-color:  !important;
+}
+
+.btn-primary:hover {
+    color:  !important;
+    background-color:  !important;
+    border-color:  !important;
+}
+
+.btn-primary:disabled, .btn-primary.disabled {
+    background-color:  !important;
+}
+
+.btn-outline-primary {
+    color: ;
+    border-color:  !important;
+}
+
+.btn-outline-primary:hover {
+    color: ;
+    background: ;
+    border-color: ;
+}
+
+.alert-primary {
+    color: ;
+    background: ;
+    border-color: ;
+}
+
+
+.bg-secondary {
+    background-color:  !important;
+}
+
+.text-secondary {
+    color:  !important;
+}
+
+.border-secondary {
+    border-color:  !important;
+}
+
+.badge-secondary {
+    color:  !important;
+    background-color:  !important;
+}
+
+.btn-secondary {
+    color:  !important;
+    background-color:  !important;
+    border-color:  !important;
+}
+
+.btn-secondary:hover {
+    color:  !important;
+    background-color:  !important;
+    border-color:  !important;
+}
+
+.btn-secondary:disabled, .btn-secondary.disabled {
+    background-color:  !important;
+}
+
+.btn-outline-secondary {
+    color: ;
+    border-color:  !important;
+}
+
+.btn-outline-secondary:hover {
+    color: ;
+    background: ;
+    border-color: ;
+}
+
+.alert-secondary {
+    color: ;
+    background: ;
+    border-color: ;
+}
+
+
+.bg-success {
+    background-color:  !important;
+}
+
+.text-success {
+    color:  !important;
+}
+
+.border-success {
+    border-color:  !important;
+}
+
+.badge-success {
+    color:  !important;
+    background-color:  !important;
+}
+
+.btn-success {
+    color:  !important;
+    background-color:  !important;
+    border-color:  !important;
+}
+
+.btn-success:hover {
+    color:  !important;
+    background-color:  !important;
+    border-color:  !important;
+}
+
+.btn-success:disabled, .btn-success.disabled {
+    background-color:  !important;
+}
+
+.btn-outline-success {
+    color: ;
+    border-color:  !important;
+}
+
+.btn-outline-success:hover {
+    color: ;
+    background: ;
+    border-color: ;
+}
+
+.alert-success {
+    color: ;
+    background: ;
+    border-color: ;
+}
+
+
+.bg-info {
+    background-color:  !important;
+}
+
+.text-info {
+    color:  !important;
+}
+
+.border-info {
+    border-color:  !important;
+}
+
+.badge-info {
+    color:  !important;
+    background-color:  !important;
+}
+
+.btn-info {
+    color:  !important;
+    background-color:  !important;
+    border-color:  !important;
+}
+
+.btn-info:hover {
+    color:  !important;
+    background-color:  !important;
+    border-color:  !important;
+}
+
+.btn-info:disabled, .btn-info.disabled {
+    background-color:  !important;
+}
+
+.btn-outline-info {
+    color: ;
+    border-color:  !important;
+}
+
+.btn-outline-info:hover {
+    color: ;
+    background: ;
+    border-color: ;
+}
+
+.alert-info {
+    color: ;
+    background: ;
+    border-color: ;
+}
+
+
+.bg-warning {
+    background-color:  !important;
+}
+
+.text-warning {
+    color:  !important;
+}
+
+.border-warning {
+    border-color:  !important;
+}
+
+.badge-warning {
+    color:  !important;
+    background-color:  !important;
+}
+
+.btn-warning {
+    color:  !important;
+    background-color:  !important;
+    border-color:  !important;
+}
+
+.btn-warning:hover {
+    color:  !important;
+    background-color:  !important;
+    border-color:  !important;
+}
+
+.btn-warning:disabled, .btn-warning.disabled {
+    background-color:  !important;
+}
+
+.btn-outline-warning {
+    color: ;
+    border-color:  !important;
+}
+
+.btn-outline-warning:hover {
+    color: ;
+    background: ;
+    border-color: ;
+}
+
+.alert-warning {
+    color: ;
+    background: ;
+    border-color: ;
+}
+
+
+.bg-danger {
+    background-color:  !important;
+}
+
+.text-danger {
+    color:  !important;
+}
+
+.border-danger {
+    border-color:  !important;
+}
+
+.badge-danger {
+    color:  !important;
+    background-color:  !important;
+}
+
+.btn-danger {
+    color:  !important;
+    background-color:  !important;
+    border-color:  !important;
+}
+
+.btn-danger:hover {
+    color:  !important;
+    background-color:  !important;
+    border-color:  !important;
+}
+
+.btn-danger:disabled, .btn-danger.disabled {
+    background-color:  !important;
+}
+
+.btn-outline-danger {
+    color: ;
+    border-color:  !important;
+}
+
+.btn-outline-danger:hover {
+    color: ;
+    background: ;
+    border-color: ;
+}
+
+.alert-danger {
+    color: ;
+    background: ;
+    border-color: ;
+}
+
+
+.bg-light {
+    background-color:  !important;
+}
+
+.text-light {
+    color:  !important;
+}
+
+.border-light {
+    border-color:  !important;
+}
+
+.badge-light {
+    color:  !important;
+    background-color:  !important;
+}
+
+.btn-light {
+    color:  !important;
+    background-color:  !important;
+    border-color:  !important;
+}
+
+.btn-light:hover {
+    color:  !important;
+    background-color:  !important;
+    border-color:  !important;
+}
+
+.btn-light:disabled, .btn-light.disabled {
+    background-color:  !important;
+}
+
+.btn-outline-light {
+    color: ;
+    border-color:  !important;
+}
+
+.btn-outline-light:hover {
+    color: ;
+    background: ;
+    border-color: ;
+}
+
+.alert-light {
+    color: ;
+    background: ;
+    border-color: ;
+}
